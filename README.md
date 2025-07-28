@@ -267,23 +267,6 @@ NEXT_PUBLIC_ENABLE_ANALYTICS=true
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Binance API** for providing free market data
-- **ShadCN** for the excellent component library
-- **Radix UI** for accessible primitives
-- **TanStack** for powerful data fetching
-- **Vercel** for the amazing Next.js framework
-
-## 📞 Support
-
-- **Documentation**: Check this README and inline code comments
-- **Issues**: Report bugs via GitHub Issues
-- **Discussions**: Join community discussions
-- **Email**: Contact the development team
 
 ---
 
-**Built with ❤️ for the trading and development community**
-
-*This application is for educational and analytical purposes only. Not financial advice.*
